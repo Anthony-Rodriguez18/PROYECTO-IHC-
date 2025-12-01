@@ -1,0 +1,22 @@
+### UNITY ###
+**/Library/
+**/Temp/
+**/Logs/
+**/Build/
+**/Builds/
+**/obj/
+**/.vs/
+**/*.user
+**/*.csproj
+**/*.sln
+
+### PYTHON SERVER ###
+SERVER/venv/
+SERVER/__pycache__/
+SERVER/*.pyc
+SERVER/vosk-model*/
+SERVER/*.log
+
+### GENERAL ###
+.DS_Store
+Thumbs.db
