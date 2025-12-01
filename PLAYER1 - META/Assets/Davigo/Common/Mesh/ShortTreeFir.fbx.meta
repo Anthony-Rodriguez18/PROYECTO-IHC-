@@ -1,0 +1,205 @@
+fileFormatVersion: 2
+guid: 2219531b024c34c4c8327354be4e5206
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: -2992436137087337031
+    second: Fir-tree|Fir-tree-damaged|Take 001|BaseLayer
+  - first:
+      74: 9214373789284008276
+    second: Fir-tree|Fir-tree-destroyed|Take 001|BaseLayer
+  - first:
+      74: 1127143594412430262
+    second: Fir-tree|Fir-tree|Take 001|BaseLayer
+  - first:
+      74: 1078349003789932042
+    second: Fir-tree|FirTreeCollision-destroyed|Take 001|BaseLayer
+  - first:
+      74: -6506398068539984962
+    second: Fir-tree|FirTreeCollision|Take 001|BaseLayer
+  - first:
+      74: 891680860612336040
+    second: Fir-tree|Piece2|Take 001|BaseLayer
+  - first:
+      74: 4046262875986994223
+    second: FirTreeCollision|Fir-tree-damaged|Take 001|BaseLayer
+  - first:
+      74: -5994106863303018279
+    second: FirTreeCollision|Fir-tree-destroyed|Take 001|BaseLayer
+  - first:
+      74: 3052852082428803732
+    second: FirTreeCollision|Fir-tree|Take 001|BaseLayer
+  - first:
+      74: 1241449278728151346
+    second: FirTreeCollision|FirTreeCollision-destroyed|Take 001|BaseLayer
+  - first:
+      74: -2115063622927742205
+    second: FirTreeCollision|FirTreeCollision|Take 001|BaseLayer
+  - first:
+      74: -8271101862254905616
+    second: FirTreeCollision|Piece2|Take 001|BaseLayer
+  - first:
+      74: -5629480585503469473
+    second: Fir-tree-damaged|Fir-tree-damaged|Take 001|BaseLayer
+  - first:
+      74: 5866919143252388633
+    second: Fir-tree-damaged|Fir-tree-destroyed|Take 001|BaseLayer
+  - first:
+      74: -3676239391250236499
+    second: Fir-tree-damaged|Fir-tree|Take 001|BaseLayer
+  - first:
+      74: 7623878870155962537
+    second: Fir-tree-damaged|FirTreeCollision-destroyed|Take 001|BaseLayer
+  - first:
+      74: -7220167674177221745
+    second: Fir-tree-damaged|FirTreeCollision|Take 001|BaseLayer
+  - first:
+      74: 5306153154687752225
+    second: Fir-tree-damaged|Piece2|Take 001|BaseLayer
+  - first:
+      74: -5369412976041426741
+    second: Fir-tree-destroyed|Fir-tree-damaged|Take 001|BaseLayer
+  - first:
+      74: -976863248632852400
+    second: Fir-tree-destroyed|Fir-tree-destroyed|Take 001|BaseLayer
+  - first:
+      74: 7622249681038648863
+    second: Fir-tree-destroyed|Fir-tree|Take 001|BaseLayer
+  - first:
+      74: -8992045760218657388
+    second: Fir-tree-destroyed|FirTreeCollision-destroyed|Take 001|BaseLayer
+  - first:
+      74: -71496003120180711
+    second: Fir-tree-destroyed|FirTreeCollision|Take 001|BaseLayer
+  - first:
+      74: -157529463827129402
+    second: Fir-tree-destroyed|Piece2|Take 001|BaseLayer
+  - first:
+      74: 460145074097902655
+    second: FirTreeCollision-destroyed|Fir-tree-damaged|Take 001|BaseLayer
+  - first:
+      74: -3286101518669307218
+    second: FirTreeCollision-destroyed|Fir-tree-destroyed|Take 001|BaseLayer
+  - first:
+      74: -429168868670944501
+    second: FirTreeCollision-destroyed|Fir-tree|Take 001|BaseLayer
+  - first:
+      74: -3172447174326610631
+    second: FirTreeCollision-destroyed|FirTreeCollision-destroyed|Take 001|BaseLayer
+  - first:
+      74: 5006834468334571520
+    second: FirTreeCollision-destroyed|FirTreeCollision|Take 001|BaseLayer
+  - first:
+      74: -3381451984197737756
+    second: FirTreeCollision-destroyed|Piece2|Take 001|BaseLayer
+  - first:
+      74: 2801809389769344840
+    second: Piece2|Fir-tree-damaged|Take 001|BaseLayer
+  - first:
+      74: -4973401703086234435
+    second: Piece2|Fir-tree-destroyed|Take 001|BaseLayer
+  - first:
+      74: 3073088203823258418
+    second: Piece2|Fir-tree|Take 001|BaseLayer
+  - first:
+      74: -2290297229699293010
+    second: Piece2|FirTreeCollision-destroyed|Take 001|BaseLayer
+  - first:
+      74: -1868129216934858308
+    second: Piece2|FirTreeCollision|Take 001|BaseLayer
+  - first:
+      74: -8343054745458375294
+    second: Piece2|Piece2|Take 001|BaseLayer
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
